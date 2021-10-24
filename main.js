@@ -1,5 +1,6 @@
 const linksSocialMedia = {
   github: 'williamslews',
+  linkedin: 'in/williamslews',
   youtube: 'channel/UCRK3RSPg0OZbtFjt3AqkaaA',
   instagram: 'williamslews',
   facebook: 'williamslews',
